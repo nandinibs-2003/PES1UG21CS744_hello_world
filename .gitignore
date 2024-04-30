@@ -1,0 +1,39 @@
+.VirtualBox/
+.arduinoIDE/
+.bash_history
+.cache/
+.docker/
+.dotnet/
+.gitconfig
+.idlerc/
+.kube/
+.lesshst
+.m2/
+.matplotlib/
+.minikube/
+.node_repl_history
+.packettracer
+.redhat/
+.sts4/
+.vscode/
+.wdc/
+.zenmap/
+AppData/
+Cisco Packet Tracer 8.2.0/
+Contacts/
+Documents/
+Downloads/
+IntelGraphicsProfiles/
+Music/
+NTUSER.DAT
+OneDrive/
+Saved Games/
+Searches/
+Tracing/
+Videos/
+VirtualBox VMs/
+company.db
+docker
+my-react-app/
+plot.sce
+source/
